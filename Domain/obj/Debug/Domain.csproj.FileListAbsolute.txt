@@ -1,0 +1,25 @@
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Domain\bin\Debug\Domain.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Domain\bin\Debug\Domain.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Domain\obj\Debug\Domain.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Domain\obj\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\Domain\bin\Debug\Domain.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Domain\bin\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\miprimermvc-master\Domain\obj\Debug\Domain.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Domain\obj\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Domain\bin\Debug\Domain.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Domain\bin\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Domain\obj\Debug\Domain.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Domain\obj\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Domain\bin\Debug\Domain.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Domain\bin\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Domain\obj\Debug\Domain.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Domain\obj\Debug\Domain.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Domain\bin\Debug\Domain.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Domain\bin\Debug\Domain.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Domain\obj\Debug\Domain.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Domain\obj\Debug\Domain.pdb

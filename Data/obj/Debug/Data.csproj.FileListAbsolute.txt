@@ -1,0 +1,80 @@
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\Data.dll.config
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\Data.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\Data.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\Domain.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\NHibernate.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\Domain.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\FluentNHibernate.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\bin\Debug\NHibernate.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\obj\Debug\Data.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\Data\obj\Debug\Data.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\Data.dll.config
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\Data.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\Data.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\Domain.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\NHibernate.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\FluentNHibernate.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\bin\Debug\NHibernate.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\obj\Debug\Data.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\Data\obj\Debug\Data.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\Data.dll.config
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\Data.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\Data.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\Domain.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\NHibernate.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\FluentNHibernate.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\bin\Debug\NHibernate.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\obj\Debug\Data.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\Data\obj\Debug\Data.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\Data.dll.config
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\Data.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\Data.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\Domain.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\NHibernate.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\Domain.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\FluentNHibernate.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\bin\Debug\NHibernate.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\obj\Debug\Data.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\Data\obj\Debug\Data.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\Data.dll.config
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\Data.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\Data.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\Domain.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\NHibernate.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\Domain.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\FluentNHibernate.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\bin\Debug\NHibernate.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\obj\Debug\Data.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\Data\obj\Debug\Data.pdb

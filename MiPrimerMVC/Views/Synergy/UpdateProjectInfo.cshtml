@@ -1,0 +1,19 @@
+﻿@model MiPrimerMVC.Models.NewProjectModel
+@{
+    ViewBag.Title = "Update Project";
+}
+
+<link rel="stylesheet" type="text/css" href="../../Content/signin.css">
+<script src="../../Scripts/LoginBehavior.js"></script>
+@using (Html.BeginForm("UpdateProjectInfo", "Synergy", FormMethod.Post, new { @class = "form-signin", role = "form" }))
+{
+    @Html.ValidationSummary(true)
+    <h2 class="form-signin-heading" align="center">Update Project</h2>
+    @Html.LabelFor(x => x.ProjectName)
+    @Html.TextBoxFor(x => x.ProjectName, new { @class = "form-control", ViewData.TemplateInfo.FormattedModelValue, placeholder = "Some Project" })
+    @Html.ValidationMessageFor(x => x.ProjectName)
+    @Html.LabelFor(x => x.ProjectDescription)
+    @Html.TextAreaFor(x => x.ProjectDescription, new { @class = "form-control", ViewData.TemplateInfo.FormattedModelValue, placeholder = "Type project description here." })
+    @Html.ValidationMessageFor(x => x.ProjectDescription)
+    <button type="submit" class="btn btn-lg btn-primary btn-block">Update Project!</button>
+}

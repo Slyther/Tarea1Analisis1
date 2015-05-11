@@ -1,0 +1,56 @@
+﻿@model MiPrimerMVC.Models.AccountRegisterModel
+@{
+    ViewBag.Title = "Register";
+    Layout = null;
+}
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/modernizr")
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:500' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="../../Content/LoginStyleSheet.css">
+<body>
+    <div class="middlePage">
+        <div class="page-header">
+            <h1 class="logo">Synergy 2.0<small> E.M.D.S.</small></h1>
+        </div>
+
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Register</h3>
+            </div>
+            <div class="panel-body">
+                <div style="height:100px">
+                    @using (Html.BeginForm("Register", "User", FormMethod.Post, new { @class = "form-signin", role = "form" }))
+                    {
+                        @Html.ValidationSummary(true)
+                        @Html.LabelFor(x => x.Email)
+                        @Html.TextBoxFor(x => x.Email, new { @class = "form-control", ViewData.TemplateInfo.FormattedModelValue, placeholder = "someone@someone.com" })
+                        @Html.ValidationMessageFor(x => x.Email)
+                        @Html.LabelFor(x => x.Name)
+                        @Html.TextBoxFor(x => x.Name, new { @class = "form-control", ViewData.TemplateInfo.FormattedModelValue, placeholder = "John Doe" })
+                        @Html.ValidationMessageFor(x => x.Email)
+                        @Html.LabelFor(x => x.Password)
+                        @Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Password)
+                        @Html.LabelFor(x => x.ConfirmPassword)
+                        @Html.PasswordFor(x => x.ConfirmPassword, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Password)
+
+                             <div style ="height:30px"></div>
+                        <div>
+                            
+                            <div class="col-md-5">
+                                <button type="submit" class="btn btn-info btn-sm pull-right">Register</button>
+                            </div>
+                            <div class="col-md-5">
+                                <a href="@Url.Action("Login")" class="btn btn-info btn-sm pull-right">Sign In</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - !Trello</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+    <body>
+        <link rel="stylesheet" type="text/css" href="../../Content/signin.css">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Synergy", "Index", "Synergy", null, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><label style="color:white; padding-right: 10px; padding-top: 15px">@User.Identity.Name</label></li>
+                        <li><div></div><label class="list-group-item" style="padding-top: 15px">@Html.ActionLink("Logout", "Logout", "User")</label></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content" style="padding-top: 15px;">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div>
+                        <h3 align="center">Navigation Menu</h3>
+                    </div>
+                    <div class="list-group">
+                        @Html.ActionLink("My Projects", "Index", "Synergy", null, new { @class = "list-group-item", @align="center" })
+                    </div>
+                    <div class="list-group">
+                        @if (ViewBag.Title.ToString().Equals("My Projects"))
+                        {   
+                            @Html.ActionLink("New Project", "NewProject", "Synergy", null, new { @class = "list-group-item", @align = "center" })
+                        }
+                        @if (ViewBag.Title.ToString().Equals("View Project"))
+                        {
+                            @Html.ActionLink("New History Log", "NewHistoryLog", "Synergy", null, new { @class = "list-group-item", @align = "center" })
+                            @Html.ActionLink("New User Type", "NewUserType", "Synergy", null, new { @class = "list-group-item", @align = "center" })
+                            @Html.ActionLink("Archived Elements", "ViewArchivedProjectElements", "Synergy", new { @id = Session["CurrentViewProjectID"] }, new { @class = "list-group-item", @align = "center" })
+                        }
+                        @if (ViewBag.Title.ToString().Equals("Archived Project Elements"))
+                        {
+                            @Html.ActionLink("Back to Project", "ViewProject", "Synergy", new { @id = Session["CurrentViewProjectID"] }, new { @class = "list-group-item", @align = "center" })
+                        }
+                    </div>
+                </div>
+                <div class="col-lg-9">
+                    @RenderBody()
+                </div>
+            </div>
+            <hr/>
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Synergy</p>
+            </footer>
+        </div>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

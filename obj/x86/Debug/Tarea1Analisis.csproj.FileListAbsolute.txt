@@ -1,0 +1,2 @@
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\obj\x86\Debug\Tarea1Analisis.csprojResolveAssemblyReference.cache

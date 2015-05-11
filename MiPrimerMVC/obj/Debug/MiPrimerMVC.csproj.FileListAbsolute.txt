@@ -1,0 +1,230 @@
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\MiPrimerMVC.dll.config
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\MiPrimerMVC.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\MiPrimerMVC.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Antlr3.Runtime.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Newtonsoft.Json.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Helpers.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Mvc.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Optimization.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Razor.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.WebPages.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\WebGrease.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Helpers.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Mvc.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Optimization.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.Razor.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.WebPages.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Newtonsoft.Json.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\obj\Debug\MiPrimerMVC.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\obj\Debug\MiPrimerMVC.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\obj\Debug\MiPrimerMVC.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Ninject.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Ninject.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Ninject.Web.Common.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\WebActivatorEx.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Ninject.Web.Common.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\connectionStrings.config
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\AcklenAvenue.Data.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Data.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Domain.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\FluentNHibernate.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Iesi.Collections.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\NHibernate.dll
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Data.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Domain.pdb
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\FluentNHibernate.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\Iesi.Collections.xml
+C:\Users\Camilo Aguilar\Desktop\Clase-8-10-2014\MiPrimerMVC\MiPrimerMVC\bin\NHibernate.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\connectionStrings.config
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.dll.config
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\AcklenAvenue.Data.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Antlr3.Runtime.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Data.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Domain.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\FluentNHibernate.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Iesi.Collections.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Newtonsoft.Json.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\NHibernate.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Ninject.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Common.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Helpers.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Mvc.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Optimization.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Razor.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\WebActivatorEx.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\WebGrease.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Data.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Domain.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\FluentNHibernate.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Iesi.Collections.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\NHibernate.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Ninject.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Common.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Helpers.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Mvc.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Optimization.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.Razor.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Newtonsoft.Json.xml
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.dll
+C:\Users\Slyther\Desktop\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\connectionStrings.config
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.dll.config
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\AcklenAvenue.Data.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Antlr3.Runtime.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Data.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Domain.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\FluentNHibernate.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Iesi.Collections.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Newtonsoft.Json.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\NHibernate.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Common.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Helpers.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Mvc.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Optimization.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Razor.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\WebActivatorEx.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\WebGrease.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Data.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Domain.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\FluentNHibernate.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Iesi.Collections.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\NHibernate.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Common.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Helpers.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Mvc.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Optimization.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Razor.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Newtonsoft.Json.xml
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\connectionStrings.config
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.dll.config
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\MiPrimerMVC.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\AcklenAvenue.Data.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Antlr3.Runtime.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Data.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Domain.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\FluentNHibernate.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Iesi.Collections.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Newtonsoft.Json.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\NHibernate.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Common.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Helpers.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Mvc.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Optimization.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Razor.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\WebActivatorEx.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\WebGrease.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Data.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Domain.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\FluentNHibernate.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Iesi.Collections.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\NHibernate.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Common.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Helpers.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Mvc.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Optimization.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.Razor.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Newtonsoft.Json.xml
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.dll
+C:\Users\Slyther\Desktop\Unitec\2014 Trimestre IV\Progra IV\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\connectionStrings.config
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\MiPrimerMVC.dll.config
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\MiPrimerMVC.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\MiPrimerMVC.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\AcklenAvenue.Data.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\AcklenAvenue.Data.NHibernate.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Antlr3.Runtime.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Data.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Domain.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\FluentNHibernate.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Iesi.Collections.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Newtonsoft.Json.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\NHibernate.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Ninject.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Ninject.Web.Common.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Helpers.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Mvc.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Optimization.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Razor.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.WebPages.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\WebActivatorEx.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\WebGrease.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Data.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Domain.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\FluentNHibernate.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Iesi.Collections.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\NHibernate.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Ninject.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Ninject.Web.Common.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Helpers.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Mvc.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Optimization.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.Razor.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.WebPages.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Newtonsoft.Json.xml
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.dll
+C:\Users\Javier\Desktop\Current Works\Tarea1Analisis-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.pdb

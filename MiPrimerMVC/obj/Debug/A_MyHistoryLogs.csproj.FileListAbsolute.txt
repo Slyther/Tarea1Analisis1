@@ -1,0 +1,3 @@
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\A_MyHistoryLogs.csprojResolveAssemblyReference.cache
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.dll
+C:\Users\Slyther\Desktop\repo\repo\miprimermvc-master\MiPrimerMVC\obj\Debug\MiPrimerMVC.pdb
